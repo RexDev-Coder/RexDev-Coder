@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 I'm currently learning different programming with projects such as react, flutter.
 Pronouns: She/ Her
-<a href="https://app.daily.dev/MrRomotoZ"><img src="https://api.daily.dev/devcards/b93b5d01595a4aa1af2ba1c2cc6b23e8.png?r=xso" width="400" alt="Meghna's Dev Card"/></a>
+<a href="https://app.daily.dev/MrRomotoZ"><img src="https://api.daily.dev/devcards/b93b5d01595a4aa1af2ba1c2cc6b23e8.png?r=sb7" width="400" alt="Meghna's Dev Card"/></a>
